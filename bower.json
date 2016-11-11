@@ -1,0 +1,17 @@
+{
+  "name": "IBEX-device",
+  "homepage": "https://github.com/ISISSynchGroup/IBEX-device",
+  "authors": [
+    "John Medland <john.medland@stfc.ac.uk>"
+  ],
+  "description": "The parent for all IBEX device classes",
+  "main": "IBEX-device.lvproj",
+  "keywords": [
+    "LabVIEW"
+  ],
+  "license": "LGPL-3.0",
+  "private": true,
+  "ignore": [
+    "test"
+  ]
+}
